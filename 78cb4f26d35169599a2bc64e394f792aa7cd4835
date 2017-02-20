@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa201ad_360a20d3",
+        "filename": "aicp.dependencies",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2017-02-20T15:26:51Z",
+      "side": 1,
+      "message": "Better to push to AICP github.. If you really have anything different from LoS..",
+      "range": {
+        "startLine": 3,
+        "startChar": 19,
+        "endLine": 3,
+        "endChar": 28
+      },
+      "revId": "78cb4f26d35169599a2bc64e394f792aa7cd4835",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa201ad_16051cc2",
+        "filename": "aicp.dependencies",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2017-02-20T15:26:51Z",
+      "side": 1,
+      "message": "Not sane to track the repo from other guys, while you have Nightlies for your device...",
+      "range": {
+        "startLine": 13,
+        "startChar": 19,
+        "endLine": 13,
+        "endChar": 33
+      },
+      "revId": "78cb4f26d35169599a2bc64e394f792aa7cd4835",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
+    }
+  ]
+}
