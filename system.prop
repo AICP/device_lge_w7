@@ -18,3 +18,11 @@ ro.qc.sensors.max_grav_no_gyro=50
 ro.qc.sensors.max_geomag_rotvec=50
 
 qcom.bluetooth.soc=smd
+
+# Hardware Info
+ro.device.chipset=Qualcomm MSM8226 Snapdragon 400
+ro.device.cpu=Quad-core (4x1.2 GHz ARM Cortex-A7)
+ro.device.gpu=Adreno 305
+ro.device.rear_cam=8/5 MP
+ro.device.front_cam=0.3 MP
+ro.device.screen_res=960 x 540
