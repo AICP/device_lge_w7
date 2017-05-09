@@ -15,7 +15,7 @@
     "remote":      "github",
     "repository":  "mosimchah/android_kernel_lge_msm8226",
     "target_path": "kernel/lge/msm8226",
-    "branch":      "n-test"
+    "branch":      "n7.1"
   },
   {
     "remote":      "github",
