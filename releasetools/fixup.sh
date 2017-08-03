@@ -2,6 +2,7 @@
 
 model=`cat /proc/cmdline | sed 's/.*model.name=\([^ ]*\).*/\1/'`
 
+cp -f /system/media/w7_aicp-bootanimation.zip /system/media/bootanimation.zip
 rm /system/usr/keylayout/Generic.kl
 
 if [ "$model" = "LG-D410" ] || [ "$model" = "LG-D410hn" ]; then
