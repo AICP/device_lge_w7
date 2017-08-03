@@ -22,3 +22,8 @@ if [ "$model" = "LG-D415" ]; then
 	rm /system/etc/permissions/qcom.fmradio.xml
 	rm -rf /system/priv-app/FMRadio/
 fi
+
+if [ "$model" = "LG-D410" ] || [ "$model" = "LG-D405" ] || [ "$model" = "LG-D415" ] || [ "$model" = "LG-D405n" ] || [ "$model" = "LG-D410hn" ]; then
+        rm -rf /system/media/bootanimation.zip
+        cp /system/media/w7_aicp-bootanimation.zip /system/media/bootanimation.zip
+fi
